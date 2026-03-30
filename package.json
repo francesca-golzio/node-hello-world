@@ -8,6 +8,6 @@
   "main": "server.mjs",
   "scripts": {
     "test": "test",
-    "start": "node server.js"
+    "start": "node server.mjs"
   }
 }
