@@ -1,0 +1,13 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Fr4v",
+  "type": "commonjs",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  }
+}
