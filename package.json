@@ -5,10 +5,10 @@
   "license": "ISC",
   "author": "Fr4v",
   "type": "commonjs",
-  "main": "server.mjs",
+  "main": "index.js",
   "scripts": {
     "test": "test",
-    "start": "node server.mjs",
-    "watch": "node --watch server.mjs"
+    "start": "node index.js",
+    "watch": "node --watch index.js"
   }
 }
